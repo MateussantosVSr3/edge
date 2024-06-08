@@ -1,6 +1,7 @@
 # Projeto de Monitoramento de pH, Temperatura e TDS
 
----
+-- Mateus dos Santos RM: 558436
+-- Lucas Imparato RM: 554896
 
 ## Descrição do Projeto
 
