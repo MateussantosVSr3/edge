@@ -29,8 +29,8 @@ Este projeto consiste em simular três sensores: pH, Temperatura e TDS (Total Di
 - Componentes eletrônicos necessários para montagem do circuito:
   - Sensores de pH, temperatura e TDS.
   - Resistores e fios para conexão.
-  - Displays LCDs compatíveis com o Arduino.
-  - Placa Arduino (compatível com o código fornecido).
+  - Displays LCDs.
+  - Placa Arduino.
 
 ## Informações Adicionais
 
