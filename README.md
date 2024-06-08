@@ -40,11 +40,3 @@ Este projeto consiste em simular três sensores: pH, Temperatura e TDS (Total Di
 - As leituras de pH são convertidas para valores de pH utilizando uma fórmula específica.
 - A temperatura é calculada a partir de uma leitura analógica e convertida para graus Celsius.
 
-## Contribuições e Melhorias
-
-Este projeto pode ser expandido e aprimorado de várias maneiras, incluindo:
-
-- Implementação de calibração para os sensores de pH e TDS.
-- Integração com um sistema de controle para ajuste automático de parâmetros.
-- Adição de alarmes ou notificações para valores fora dos limites aceitáveis.
-- Melhoria da interface do usuário para exibição de gráficos ou históricos de dados.
